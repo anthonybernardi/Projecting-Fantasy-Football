@@ -20,6 +20,11 @@ body:
     attributes:
       label: Steps to Reproduce
       description: How could someone reproduce this bug?
+      placeholder: |
+      ex. 1.
+      2.
+      3.
+      ...
     validations:
       required: true
   - type: textarea
