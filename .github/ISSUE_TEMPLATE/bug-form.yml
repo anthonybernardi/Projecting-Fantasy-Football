@@ -21,7 +21,7 @@ body:
       label: Steps to Reproduce
       description: How could someone reproduce this bug?
       placeholder: |
-      ex. 1.
+      1.
       2.
       3.
       ...
