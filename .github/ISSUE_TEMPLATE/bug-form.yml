@@ -19,12 +19,12 @@ body:
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
-      description: How could someone reproduce this bug?
       placeholder: |
-      1.
-      2.
-      3.
-      ...
+       1.
+       2.
+       3.
+       ...
+      description: How could someone reproduce this bug?
     validations:
       required: true
   - type: textarea
